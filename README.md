@@ -1,3 +1,7 @@
 # git_test
-My first Github repo
-Hello Drew
+Hey friend,
+
+Its me!
+
+Your pal,
+Jimmy
